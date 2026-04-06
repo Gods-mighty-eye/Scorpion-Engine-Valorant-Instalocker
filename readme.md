@@ -63,14 +63,21 @@ Geleneksel instalocker'lar ekranın fotoğrafını çekip analiz ederken zaman k
 
 
 \## 🛠️ Kurulum ve Kullanım
+Valorant'ı başlatın ve ana menüde (Lobi) bekleyin.
+main.py dosyasını Yönetici Olarak çalıştırın.
+Listeden istediğiniz ajanı seçin.
+F9 tuşuna basın veya arayüzdeki butona tıklayın.
+Maça girdiğiniz an sistem "ŞAK" diye ajanı kilitleyecektir.
 
+⚠️ Sorumluluk Reddi (Disclaimer)
+Bu yazılım tamamen eğitim ve test amaçlı geliştirilmiştir. Valorant'ın hizmet şartlarına (ToS) aykırı olabilir. Kullanım sırasında oluşabilecek hesap kısıtlamalarından veya ban durumlarından tamamen kullanıcı sorumludur. Geliştirici hiçbir sorumluluk kabul etmez.
 
+🤝 İletişim & Destek
+Proje hoşunuza gittiyse bir Yıldız (⭐) bırakmayı unutmayın! Sorularınız için "Issues" kısmından bana ulaşabilirsiniz.
 
 \### 1. Gereksinimler
 
 Sisteminizde Python yüklü olmalıdır. Ardından terminale (CMD) şu komutu yazın:
-
 ```bash
-
 pip install valclient customtkinter keyboard requests
 
