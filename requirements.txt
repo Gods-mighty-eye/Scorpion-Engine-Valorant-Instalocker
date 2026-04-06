@@ -1,0 +1,4 @@
+valclient
+customtkinter
+keyboard
+requests
