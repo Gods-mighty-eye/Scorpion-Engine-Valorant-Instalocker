@@ -63,6 +63,7 @@ Geleneksel instalocker'lar ekranın fotoğrafını çekip analiz ederken zaman k
 
 
 \## 🛠️ Kurulum ve Kullanım
+
 Valorant'ı başlatın ve ana menüde (Lobi) bekleyin.
 main.py dosyasını Yönetici Olarak çalıştırın.
 Listeden istediğiniz ajanı seçin.
